@@ -38,6 +38,10 @@ Once the drivers for all 4 PWM signals and the 2 UART modules were confirmed as 
 
 We also 3D printed the ultrasonic sensor housing below in order to keep the location of the US-100 sensor the same the entire time.
 CAD model of 3d Printed Parts
+
+![alt text](https://github.com/lmarron7138/ECE425_Final_Project/blob/main/Schematic/Pathfinder_Schematic.pdf)
+
+
   
 Block Diagram:
 
